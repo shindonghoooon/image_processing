@@ -1,0 +1,172 @@
+﻿  ViewerDlg.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): error C2011: 'CViewerDlg': 'class' 형식 재정의
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(35): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(37): error C2660: 'GetDlgItem': 함수는 1개의 매개 변수를 사용하지 않습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(37): error C2227: '->GetWindowRect' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(37): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(38): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(39): error C2065: 'm_pDC': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(39): error C2065: 'm_PicOri': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(39): error C2228: '.GetDC' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(39): note: 'unknown-type' 형식입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(40): error C2065: 'm_PicOri': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(40): error C2228: '.GetClientRect' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(40): note: 'unknown-type' 형식입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(40): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(43): error C2660: 'GetDlgItem': 함수는 1개의 매개 변수를 사용하지 않습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(43): error C2227: '->GetWindowRect' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(43): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(44): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(45): error C2065: 'm_pDC': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(45): error C2065: 'm_PicProc': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(45): error C2228: '.GetDC' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(45): note: 'unknown-type' 형식입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(46): error C2065: 'm_PicProc': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(46): error C2228: '.GetClientRect' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(46): note: 'unknown-type' 형식입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(46): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(50): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(50): error C3861: 'ResizeImage': 식별자를 찾을 수 없습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(51): error C2065: 'm_pDC': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(51): error C2065: 'rect': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(51): error C3861: 'DisplayBitmap': 식별자를 찾을 수 없습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(53): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(96): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(149): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(150): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(151): error C2550: '{ctor}': 생성자 이니셜라이저 목록은 생성자 정의에만 사용할 수 있습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(152): error C2065: 'm_hIcon': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(153): warning C4508: '{ctor}': 함수는 값을 반환해야 하므로 'void' 반환 형식으로 간주됩니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(155): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(157): error C2248: 'CWnd::DoDataExchange': protected 멤버('CWnd' 클래스에서 선언)에 액세스할 수 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(2919): note: 'CWnd::DoDataExchange' 선언을 참조하십시오.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(2181): note: 'CWnd' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(157): error C2352: 'CWnd::DoDataExchange': 비정적 멤버 함수를 잘못 호출했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(2919): note: 'CWnd::DoDataExchange' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(158): error C2065: 'm_PicOri': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(159): error C2065: 'm_PicProc': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(162): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(162): error C2270: 'GetMessageMap': 비멤버 함수에 한정자를 사용할 수 없습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(162): error C3861: 'GetThisMessageMap': 식별자를 찾을 수 없습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(163): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(163): error C2065: 'OnSysCommand': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(164): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(164): error C2065: 'OnPaint': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(165): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(165): error C2065: 'OnQueryDragIcon': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(166): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(166): error C2065: 'OnFileOpenBtnClick': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(167): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(167): error C2065: 'OnFileCloseBtnClick': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(168): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(168): error C2065: 'OnConvertConvertgray': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(169): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(169): error C2065: 'OnEditScalingClick': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(170): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(170): error C2065: 'OnEditRotationClick': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(171): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(171): error C2065: 'OnHistogramGetClick': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(172): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(172): error C2065: 'OnHistogramEqualizationClicked': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(173): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(173): error C2065: 'OnHistogramMatchingClicked': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(174): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(174): error C2065: 'OnEditFilterClicked': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(175): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(175): error C2065: 'OnNoisereductionAddnoiseClicked': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(176): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(176): error C2065: 'OnNoisefilteringMeanfilterClicked': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(177): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(177): error C2065: 'OnNoisefilteringOrderClicked': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(179): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(179): error C2065: 'OnGetpsnr': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(180): error C2248: 'CDialogEx::GetThisMessageMap': protected 멤버('CDialogEx' 클래스에서 선언)에 액세스할 수 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxdialogex.h(86): note: 'CDialogEx::GetThisMessageMap' 선언을 참조하십시오.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxdialogex.h(27): note: 'CDialogEx' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(185): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(187): error C2352: 'CDialog::OnInitDialog': 비정적 멤버 함수를 잘못 호출했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3369): note: 'CDialog::OnInitDialog' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(195): error C2660: 'GetSystemMenu': 함수는 1개의 매개 변수를 사용하지 않습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(211): error C2065: 'm_hIcon': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(211): error C3861: 'SetIcon': 식별자를 찾을 수 없습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(212): error C2065: 'm_hIcon': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(212): error C3861: 'SetIcon': 식별자를 찾을 수 없습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(219): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(228): error C2248: 'CWnd::OnSysCommand': protected 멤버('CWnd' 클래스에서 선언)에 액세스할 수 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(2799): note: 'CWnd::OnSysCommand' 선언을 참조하십시오.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(2181): note: 'CWnd' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(228): error C2352: 'CWnd::OnSysCommand': 비정적 멤버 함수를 잘못 호출했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(2799): note: 'CWnd::OnSysCommand' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(236): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(238): error C2660: 'IsIconic': 함수는 0개의 매개 변수를 사용하지 않습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(240): error C2355: 'this': 비정적 멤버 함수 또는 비정적 데이터 멤버 이니셜라이저 안에서만 참조할 수 있습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(240): error C2512: 'CPaintDC::CPaintDC': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(242): error C2660: 'SendMessageA': 함수는 3개의 매개 변수를 사용하지 않습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(248): error C2660: 'GetClientRect': 함수는 1개의 매개 변수를 사용하지 않습니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(253): error C2065: 'm_hIcon': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(257): error C2248: 'CDialog::OnPaint': protected 멤버('CDialog' 클래스에서 선언)에 액세스할 수 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3418): note: 'CDialog::OnPaint' 선언을 참조하십시오.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3323): note: 'CDialog' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(257): error C2352: 'CDialog::OnPaint': 비정적 멤버 함수를 잘못 호출했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3418): note: 'CDialog::OnPaint' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(263): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(265): error C2065: 'm_hIcon': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(270): error C2027: 정의되지 않은 형식 'CViewerDlg'을(를) 사용했습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(274): error C2065: 'isImageOpened': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(275): error C2065: 'ch_in_1': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(276): error C2065: 'ch_in_1': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(276): error C2065: 'nHeight_in': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(278): error C2065: 'ch_in_2': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(279): error C2065: 'nFormat': 선언되지 않은 식별자입니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.cpp(279): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  Viewer.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): error C2011: 'CViewerDlg': 'class' 형식 재정의
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewerdlg.h(40): note: 'CViewerDlg' 선언을 참조하십시오.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewer.cpp(74): error C2079: 'dlg'은(는) 정의되지 않은 class 'CViewerDlg'을(를) 사용합니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewer.cpp(75): error C2440: '=': 'int *'에서 'CWnd *'(으)로 변환할 수 없습니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewer.cpp(75): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewer.cpp(76): error C2228: '.DoModal' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\viewer.cpp(76): note: 'int' 형식입니다.
+  PSNRDlg.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+c:\users\wjddn\desktop\수업\3-2\심화전공실습\hw1\viewer\viewer\psnrdlg.cpp(142): error C4716: 'CPSNRDlg::GetPSNR': 값을 반환해야 합니다.
